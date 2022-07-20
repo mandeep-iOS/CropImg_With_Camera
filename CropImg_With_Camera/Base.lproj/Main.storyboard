@@ -11,7 +11,7 @@
         <!--Main View Controller-->
         <scene sceneID="7X4-eg-8gr">
             <objects>
-                <viewController id="FqY-wI-BmQ" customClass="MainViewController" customModule="Swift_Camera_Image_Crop_Demo" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="FqY-wI-BmQ" customClass="MainViewController" customModule="CropImg_With_Camera" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="lhp-fV-dCw">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
