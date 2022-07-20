@@ -3,6 +3,10 @@
 This project is useful for image croping, image resizing
 In this project i used third party library - ALCameraViewController
 
+
+https://user-images.githubusercontent.com/66869979/179912928-87b9d474-d882-475e-b200-6140c5754c7f.mp4
+
+
 AL camera view controller provide custom image picker and image cropping.
 
 For more info visit this link - https://github.com/AlexLittlejohn/ALCameraViewController/blob/master/README.md
